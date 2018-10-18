@@ -10,4 +10,5 @@
 - [函数](https://github.com/zhaoww/python-notes/blob/master/study/test05.py)
 - [迭代器和生成器](https://github.com/zhaoww/python-notes/blob/master/study/test06.py)
 - [模块与包](https://github.com/zhaoww/python-notes/blob/master/study/test07.py)
-- 未完待续...
+- [类](https://github.com/zhaoww/python-notes/blob/master/study/test08.py)
+- [枚举](https://github.com/zhaoww/python-notes/blob/master/study/test09.py)
