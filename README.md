@@ -1,6 +1,6 @@
 *Python学习笔记*   
-资源：[草根学Python](https://github.com/TwoWater/Python)
-照着参考资料 大致先过一遍
+參考资源：[草根学Python](https://github.com/TwoWater/Python)
+
 ## 目录
 - [HelloWorld](https://github.com/zhaoww/python-notes/blob/master/study/hello.py)
 - [变量](https://github.com/zhaoww/python-notes/blob/master/study/test01.py)
@@ -12,3 +12,4 @@
 - [模块与包](https://github.com/zhaoww/python-notes/blob/master/study/test07.py)
 - [类](https://github.com/zhaoww/python-notes/blob/master/study/test08.py)
 - [枚举](https://github.com/zhaoww/python-notes/blob/master/study/test09.py)
+- [request](https://github.com/zhaoww/python-notes/blob/master/study/test10.py)
