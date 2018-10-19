@@ -13,3 +13,4 @@
 - [类](https://github.com/zhaoww/python-notes/blob/master/study/test08.py)
 - [枚举](https://github.com/zhaoww/python-notes/blob/master/study/test09.py)
 - [request](https://github.com/zhaoww/python-notes/blob/master/study/test10.py)
+- [pip安裝与使用](https://github.com/zhaoww/python-notes/blob/master/study/install-pip.py)
